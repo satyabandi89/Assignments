@@ -29,27 +29,28 @@ public class Assignment1_DataTypes {
         System.out.append("longitude of location is ") .println(longitude);
         
         //Person's Martial status: true or false
-        Boolean Martial_Status = false;
-        System.out.println(Martial_Status);
+        boolean Marital_status = true ;
+        System.out.append("Martial status:") .println(Marital_status);
+        System.out.println();
         
         //Person's occupation: "Software Engineer"
-        String Profession = "Software Engineer";
-        System.out.append("Profession of the customer is ").append(Profession);	
+        String  occupation =  "Software Engineer";
+        System.out.append("Person occupation is: ").println(occupation);
         System.out.println();
         
         //Person's Favorite color: "Blue"
-        String fav_color ="Blue";
-        System.out.append("favourite colour is ").append(fav_color);	
+        String  color =  "Blue";
+        System.out.append("Favorite color is: ") .println(color);
         System.out.println();
         
         //Current year: 2023
-        int year = 2023;
-        System.out.append("current year: ").println(year);
+        int year =  2023;
+        System.out.append("current year is: ") .println(year);
         System.out.println();
         
         //Number of followers on a social media platform: 1,000,000
-        int No_of_followers = 1000000;
-        System.out.append("Number of followers:").println(No_of_followers);
+        long No_of_followers = 1000000l;
+        System.out.append("Number of followers,:").println(No_of_followers);
         System.out.println();
         
        //Rating of a movie: 7.5 
@@ -62,15 +63,15 @@ public class Assignment1_DataTypes {
         System.out.append("The person blood type is ").println(blood_type);	
         
         //14.Title of a book: "To Kill a Mockingbird"
-        String Book_Title ="To Kill a Mockingbird";
+        String Book_Title = "To Kill a Mockingbird";
         System.out.append("The Book Title:").println(Book_Title);
         
         //Number of employees in a company: 500
-        int no_of_employees=500;
+        int no_of_employees = 500;
         System.out.append("The company strength is ").println(no_of_employees);
         
         //Time of an event: 2:30 PM
-        String event_time="2:30 PM";
+        String event_time = "2:30 PM";
         System.out.append("The event time is ").append(event_time).println();
         
         //17.Name of a country: "United States"
