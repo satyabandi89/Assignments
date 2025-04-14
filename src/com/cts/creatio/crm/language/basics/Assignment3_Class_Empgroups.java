@@ -19,6 +19,6 @@ Assignment_Class_Employees obj = new Assignment_Class_Employees();
 	empIds[1] = obj.empId2;
 	empIds[2] = obj.empId3;
 
-		System.out.println(empnames[0]+" : "+empIds[0]);
+		
 	}	
 	}
