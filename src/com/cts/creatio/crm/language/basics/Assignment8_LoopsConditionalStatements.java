@@ -36,7 +36,7 @@ public class Assignment8_LoopsConditionalStatements {
 
 				System.out.println("Suspicious credit debit Transaction with Amount: " + Amount[i]);
 				int j = 0;
-				j = j+1;
+				j = j + 1;
 				System.out.println("Total Suspicious Transactions : " + j);
 			}
 
