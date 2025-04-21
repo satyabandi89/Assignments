@@ -1,6 +1,5 @@
 package com.cts.creatio.crm.language.basics;
 
-import javax.xml.crypto.Data;
 
 public class Assignment6_Operators {
 
@@ -25,10 +24,7 @@ public class Assignment6_Operators {
 		
 		System.out.println("Average marks of all students:"+Average);
 		
-		
-		
-		
-
+	
 	}
 
 }
