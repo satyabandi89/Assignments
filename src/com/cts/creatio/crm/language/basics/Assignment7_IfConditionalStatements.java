@@ -1,11 +1,11 @@
 package com.cts.creatio.crm.language.basics;
 
-public class Assignment7_ConditionalStatements {
+public class Assignment7_IfConditionalStatements {
 
 	public static void main(String[] args) {
 
 		String CustomerName = "John Doe";
-		int creditscore = 580;
+		int creditscore = 680;
 		double Customer_Income = 55000.0;
 		boolean isemployed = true;
 		double debtToIncomeRatio = 35.0;
